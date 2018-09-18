@@ -55,9 +55,9 @@ There will always be two dialogue nodes when a new dialogue is created the first
 ![](/Assistant_Images/11_add_node.JPG)\
 To test your dialogue for correctness, click the &quot;Try it out&quote; button to chat with your assistant. In the following example, the response was selected to be an image, and the link address to the image of a lightbulb found through Google was used as the Iamge source.
 ![](/Assistant_Images/12_add_node.JPG)
-What if many were devices were connected to the assistant, and we needed to specify which device we want to turn on? We could do so by clicking the three vertical buttons and selecting &quot;Add child node&quot;. Next we define the node to trigger if the assistant recognizes the lights entity. Finally, we connect the intent to the entity by selecting the intent, changing &quot;Wait for user input&quot; to &quot;Jump to ...&quot;, and selecting the lights entity child node. This will create a dialogue flow such that if the assistant recognizes the \#Turn_on intent, and the assitant will directly check what the user desires to turn on. If the user specifies the lights entity, then the bot will respond and turn on the lights. In the following example, intents and dialogue flows are created to turn lights both on and off. 
-![](/Assistant_Images/final.JPG)
+What if many were devices were connected to the assistant, and we needed to specify which device we want to turn on? We could do so by clicking the three vertical buttons and selecting &quot;Add child node&quot;. Next we define the node to trigger if the assistant recognizes the lights entity. Finally, we connect the intent to the entity by selecting the intent, changing &quot;Wait for user input&quot; to &quot;Jump to ...&quot;, and selecting the lights entity child node. This will create a dialogue flow such that if the assistant recognizes the \#Turn_on intent, and the assitant will directly check what the user desires to turn on. If the user specifies the lights entity, then the bot will respond and turn on the lights.
 ![](/Assistant_Images/13_add_entity_to_node.JPG)
 ![](/Assistant_Images/14example_dialogue.JPG)
-
+In the following example, intents and dialogue flows are created to turn lights both on and off. 
+![](/Assistant_Images/final.JPG)
 
