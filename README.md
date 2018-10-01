@@ -7,4 +7,4 @@ These are the IBM Watson Tutorials. You will find your assignments below:
 ## Assignment 3:
    [Assistant](https://github.com/efwoods/Tutorials/blob/master/Assistant.md)
 ## Assignment 4:
-   [Discovery](https://github.com/efwoods/Tutorials/Watson-Discovery/Watson-Discovery-GUI(Tooling).md)
+   [Discovery](https://github.com/efwoods/Tutorials/blob/master/Watson-Discovery/Watson-Discovery-GUI(Tooling).md)
