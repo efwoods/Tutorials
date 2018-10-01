@@ -6,3 +6,5 @@ These are the IBM Watson Tutorials. You will find your assignments below:
    [Machine Learning](https://github.com/shauryg/Watson-CI/tree/master/Tutorials/Machine%20Learning)
 ## Assignment 3:
    [Assistant](https://github.com/efwoods/Tutorials/blob/master/Assistant.md)
+## Assignment 4:
+   [Assistant](https://github.com/efwoods/Tutorials/blob/master/Assistant.md)
