@@ -83,7 +83,7 @@ Before getting into the service setup, Let's define all the terms you see in the
         2) Next, remove the text enrichment named concepts by clicking the X next to it and then click Apply & Save.
         3) Finally, look at the JSON again. Notice how the output has changed and no longer includes concepts.
         
-           ![Complete_customer_configuration](image/Complete_custom_configuration.PNG)
+
 
     
     
