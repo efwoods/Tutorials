@@ -2,7 +2,7 @@
 These are the IBM Watson Tutorials. You will find your assignments below:
 ## Assignment 1: 
    [Visual Recognition](
-        Tutorials/Watson-Visual-Recognition-GUI.md
+        https://github.com/efwoods/Tutorials/blob/master/Watson-Visual-Recognition-GUI.md
       )
 ## Assignment 2:
    [Machine Learning](https://github.com/shauryg/Watson-CI/tree/master/Tutorials/Machine%20Learning)
